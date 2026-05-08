@@ -1,7 +1,3 @@
-This README is designed specifically for your **Windows-to-Linux Performance Engine** project, following the structured format of your previous documentation.
-
----
-
 # Windows-to-Linux Performance Engine v4.0
 
 The **Windows-to-Linux Performance Engine** is a specialized desktop utility designed to transform the behavior of a standard Windows operating system into a high-performance, "lean" environment similar to Linux. By stripping away background bloat and repairing deep system errors, it maximizes hardware speed for power users.
